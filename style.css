@@ -1,0 +1,7 @@
+.forma ul{
+    list-style: none;
+}
+.forma li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
